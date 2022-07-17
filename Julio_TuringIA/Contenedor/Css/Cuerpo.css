@@ -1,0 +1,434 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Taviraj:ital@1&display=swap");
+
+.seccionUno {
+  padding-top: 50px;
+}
+
+.h3SeccionUno {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  font-size: 5vw;
+  color: rgb(0, 0, 0);
+  width: auto;
+}
+
+.h2SeccionUno {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  font-size: 2vw;
+  color: rgb(5, 8, 104);
+  width: auto;
+}
+
+.btnSeccionUno {
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 15px;
+  width: auto;
+}
+
+.seccionDos {
+  padding-top: 50px;
+}
+
+.infoseccionDos {
+  padding-top: 9%;
+}
+
+.h2SeccionDos {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 1.5vw;
+  color: rgb(57, 62, 222);
+  width: auto;
+}
+
+.h2SeccionDos:hover {
+  color: rgb(3, 6, 83);
+}
+
+.h3SeccionDos {
+  text-align: left;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 2.5vw;
+  color: rgb(82, 81, 81);
+  width: auto;
+}
+
+.h3SeccionDos:hover {
+  color: rgb(0, 0, 0);
+}
+
+#ImgUno {
+  width: 100%;
+  height: auto;
+  box-shadow: 2px 5px 30px rgb(94, 94, 94);
+}
+
+.seccionTres {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.h1SeccionTres {
+  text-align: left;
+  padding-left: 20px;
+  margin-bottom: 1rem;
+  font-size: 2.5vw;
+  color: rgb(29, 15, 147);
+  width: auto;
+}
+
+.seccionCuatro {
+  padding-top: 30px;
+  padding-right: 25px;
+}
+
+.iconTec {
+  filter: grayscale(100%);
+  width: 100%;
+  height: auto;
+}
+
+.iconTec:hover {
+  filter: grayscale(0%);
+}
+
+.scrum {
+  padding-top: 30px;
+}
+
+.seccionSeis {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.h1SeccionCuatro {
+  text-align: right;
+  font-size: 5vw;
+  font-family: "The Nautigal", cursive;
+  padding-right: 25px;
+  margin-bottom: 1rem;
+  color: rgb(30, 11, 201);
+  width: auto;
+}
+
+.h1SeccionCuatro:hover {
+  color: rgb(8, 2, 67);
+}
+
+.h1SeccionTres:hover {
+  color: rgb(8, 2, 67);
+}
+
+.iconsMaps {
+  display: flex;
+  flex-direction: column;
+}
+
+.iconos6 {
+  font-size: 6vw;
+  text-align: center;
+  padding-top: 45px;
+}
+
+.iconos6:hover {
+  transition: 1s;
+  font-size: 6.2vw;
+  color: rgb(12, 156, 5);
+}
+
+.InfoIcons {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(108, 103, 103);
+}
+
+.InfoIcons:hover {
+  color: black;
+}
+
+.TituloSeccionSeis {
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+  color: rgb(14, 1, 62);
+  font-family: "Kanit", sans-serif;
+}
+
+.TituloSeccionSeis:hover {
+  transition: 3s;
+  color: rgb(48, 54, 223);
+}
+
+.seccionSeis {
+  padding-top: 30px;
+  margin-bottom: 3%;
+}
+
+.PieDePagina {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.NomPiePagina {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  font-family: "Bree Serif", serif;
+}
+
+.linea::after {
+  display: block;
+  width: 70%;
+  height: 2px;
+  content: "";
+  margin: auto;
+  background: #fff;
+}
+
+.lineaNS::after {
+  display: block;
+  width: 100%;
+  height: 2px;
+  content: "";
+  margin: auto;
+  background: #fff;
+}
+
+.lineaMS::after {
+  display: block;
+  width: 80%;
+  height: 2px;
+  content: "";
+  margin: auto;
+  background: #fff;
+}
+
+.lineaCont::after {
+  display: block;
+  width: 100%;
+  height: 2px;
+  content: "";
+  margin: auto;
+  background: #fff;
+}
+
+.lineasus::after {
+  display: block;
+  width: 75%;
+  height: 2px;
+  content: "";
+  margin: auto;
+  background: #fff;
+}
+
+.Contactanos {
+  font-size: 30px;
+  padding-bottom: 20px;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+.subcontactanos {
+  font-size: 25px;
+  color: rgb(95, 95, 81);
+}
+
+.infocontactanos {
+  font-size: 15px;
+}
+
+.NuestrosServicios {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 30px;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+.InfoNS {
+  font-size: 12px;
+}
+
+.MapaSitio {
+  padding-bottom: 20px;
+  font-size: 30px;
+  font-family: "Ibarra Real Nova", serif;
+  text-align: center;
+}
+
+.InfoMapa {
+  font-size: 15px;
+  text-align: center;
+}
+
+.AvisoP {
+  padding-top: 24px;
+  font-size: 30px;
+  font-family: "Ibarra Real Nova", serif;
+  text-align: center;
+}
+
+.Copyright {
+  font-size: 15px;
+  text-align: center;
+}
+
+.Titulo2Ins {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-family: "Raleway", sans-serif;
+}
+
+.Titulo2Red {
+  font-family: "Taviraj", serif;
+  font-size: 23px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+  padding-left: 15px;
+}
+
+.Input {
+  width: 90%;
+  padding-left: 10px;
+  height: auto;
+}
+
+.iconsPieRS {
+  font-size: 50px;
+  color: rgb(87, 84, 84);
+}
+
+.diviconRS1 {
+  padding-top: 20px;
+}
+
+.diviconRS2 {
+  padding-top: 40px;
+}
+
+.nomRS {
+  font-size: 15px;
+}
+
+.EfectoLinea:hover {
+  color: rgb(80, 77, 77);
+}
+
+.EfectoInfo:hover {
+  color: rgb(83, 85, 84);
+}
+
+.iconsPieRS:hover {
+  color: #fff;
+}
+
+.EfectoSubCont:hover {
+  color: #fff;
+}
+@media screen and (max-device-width: 700px) {
+  .NuestrosServicios {
+    font-size: 12px;
+  }
+  .MapaSitio {
+    font-size: 12px;
+  }
+  .InfoMapa {
+    font-size: 10px;
+  }
+  .InfoNS {
+    font-size: 6px;
+  }
+  .Contactanos {
+    font-size: 12px;
+  }
+  .subcontactanos {
+    font-size: 10px;
+  }
+  .infocontactanos {
+    font-size: 8px;
+  }
+  .AvisoP {
+    font-size: 12px;
+  }
+  .Copyright {
+    font-size: 9px;
+  }
+  .Titulo2Red {
+    font-size: 13px;
+  }
+  .iconsPieRS {
+    font-size: 25px;
+  }
+  .diviconRS2 {
+    padding-top: 20px;
+  }
+  .h1SeccionTres {
+    font-weight: 700;
+    padding-left: 0px;
+    text-align: center;
+    font-size: 4vw;
+  }
+  .nomRS {
+    font-size: 10px;
+  }
+  .h1SeccionCuatro {
+    text-align: center;
+    font-size: 5vw;
+    font-family: "The Nautigal", cursive;
+    padding-right: 25px;
+    margin-bottom: 1rem;
+    color: rgb(30, 11, 201);
+    width: auto;
+  }
+  .divhidden {
+    display: none;
+  }
+  .scrum {
+    padding-top: 15px;
+  }
+  .InfoIcons {
+    text-align: center;
+    font-size: 10px;
+    color: rgb(108, 103, 103);
+  }
+  .IconsHidden {
+    display: none;
+  }
+  .h2SeccionUno {
+    text-align: left;
+    font-size: 3vw;
+    color: rgb(5, 8, 104);
+    width: auto;
+  }
+  .infoseccionDos {
+    padding-top: 5%;
+  }
+  .TituloSeccionSeis {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+  }
+  .iconos6 {
+    text-align: center;
+    padding-top: 100px;
+  }
+}
